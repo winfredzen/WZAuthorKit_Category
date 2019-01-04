@@ -1,0 +1,6 @@
+framework module WZAPIsKit {
+  umbrella header "WZAPIsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

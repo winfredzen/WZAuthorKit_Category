@@ -1,0 +1,6 @@
+framework module WZToolsKit {
+  umbrella header "WZToolsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
